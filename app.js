@@ -125,7 +125,7 @@ let data = {
             'jaipur' : {
                 'kolkata': 1360,
                 'chennai': 1606,
-                'newDelhi': 241,
+                'newDelhi': 560,
                 'hyderabad': 1096
             },
             'sriNagar' : {
